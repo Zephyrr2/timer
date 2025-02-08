@@ -1,16 +1,25 @@
-# timer
+# Timer ⏳ (Flutter Project)
 
-A new Flutter project.
+Aplikasi timer berbasis Flutter yang mendukung berbagai platform.
 
-## Getting Started
+## 📌 Fitur
 
-This project is a starting point for a Flutter application.
+- Timer berbasis Flutter
+- Mendukung Android, iOS, Web, Desktop
+- Menggunakan Dart
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Cara Menjalankan
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Clone repo ini:
+   ```bash
+   git clone https://github.com/Zephyrr2/timer.git
+   ```
+2. Install dependensi:
+   ```bash
+   flutter pub get
+   ```
+3. Jalankan aplikasi:
+   ```bash
+   flutter run
+   ```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
