@@ -6,7 +6,7 @@ Aplikasi timer berbasis Flutter yang mendukung berbagai platform.
 
 - Timer berbasis Flutter
 - Mendukung Android, iOS, Web, Desktop
-- Menggunakan Dart
+- Menggunakan Dart & C++ untuk performa tinggi
 
 ## 🚀 Cara Menjalankan
 
